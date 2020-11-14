@@ -6,4 +6,4 @@
 a = int(a)
 print (a)
 a =5
-print (a/2)
+print (a/100)
