@@ -10,12 +10,14 @@ print(a)
 a = 100
 
 print (500/100)
- 
-a (int) 
 
-print(a
+a = int(a) 
+
+print(a)
 a=200 
 
-a=100 
-print (a/100)
+print (200/100)
+
+a = int(a)
+print(a)
 #print(200/100)
